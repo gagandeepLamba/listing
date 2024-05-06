@@ -1,6 +1,6 @@
 <h1 align="center">   Listings and Details</h1>
 
-<p align="center">This is an React JS application that displays private properties listed for sale in the United Kingdom with the ability to sort the listings by price, postcode, and order of pricing. The user is able to browse through the listing, read the description, and also see a Google Image street view of the precise location.</p>
+<p align="center">This is an React JS application that displays properties listed with the ability to sort the listings by price, postcode, and order of pricing. The user is able to browse through the listing, read the description, and also see a Google Image street view of the location.</p>
 
 
 
